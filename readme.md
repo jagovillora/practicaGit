@@ -19,3 +19,5 @@ Probablemente en tu proyecto te den libertad para usar el cliente git y el IDE q
 1. Visual Studio Code: https://code.visualstudio.com/
 2. Vamos a utilizar VSC para clonar el repositorio https://github.com/DavidBernalGonzalez/practicaGit.git
 3. Abre el proyecto desde VSV e investiga sobre como realizar un commit, push, crear rama, “mergear”, borrar rama y resolver conflictos con los clientes.
+4. Pruebo :D
+5. 
